@@ -1,3 +1,10 @@
+## Student Details
+
+**Student Name:** Punara Seniduni  
+**Student ID:** IT23306172 
+**Environment:** macOS + Swift / Xcode
+
+
 # SE4041 – Mobile Application Design & Development  
 ## Practical 01 – Swift Fundamentals
 
