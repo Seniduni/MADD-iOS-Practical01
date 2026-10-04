@@ -4,7 +4,7 @@ import Playgrounds
     let moduleCode = "SE4041"
     let moduleName = "Mobile Application Design and Development"
     let studentName = "Perera"
-    let studentAge = 22
+    let studentAge = 24
     var numberOfStudents = 40
     numberOfStudents += 5   // Increase the number of students by 5 -> 45
 
